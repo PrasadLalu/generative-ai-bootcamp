@@ -1,0 +1,16 @@
+euriai
+faiss-cpu
+langchain[google-genai]
+langchain-community
+langchain-openai
+langchain-groq
+langchain-core
+langchain-huggingface
+numpy
+pandas
+matplotlib
+requests
+sentence-transformers
+chromadb
+pinecone
+weaviate-client
