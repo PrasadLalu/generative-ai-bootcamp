@@ -19,3 +19,11 @@
 5. **Add Dependencies (e.g. add `python-dotenv`):**
     ```bash
     uv add python-dotenv
+
+## Run:
+- Streamlit app:
+```
+uv run streamlit run main.py --server.runOnSave true
+```
+
+uv run streamlit run ./AITools/main.py --server.runOnSave true
